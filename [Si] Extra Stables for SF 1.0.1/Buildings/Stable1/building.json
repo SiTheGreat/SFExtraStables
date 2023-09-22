@@ -1,0 +1,57 @@
+{	
+	"Name": "An Extra Stable",
+	"Description": "A simple horse stable. Horse not included.",
+
+	"DrawShadow": true,
+	"FadeWhenBehind": true,
+	"BuildCost": 5000,
+
+	"SourceRect": "0 0 64 96",
+	"CollisionMap": "XXXX\nXOOX",
+	"SortTileOffset": 1,
+	"Size": {
+		"X": 4,
+		"Y": 2,
+		},
+
+	"TileProperties": [
+		{
+		"LayerName": "Back",
+		"Tiles": [
+
+			{
+			"Tile": {
+				"X": 1,
+				"Y": 1,
+				},
+			"Key": "Type",
+			"Value": "Wood"
+			},
+
+			{
+			"Tile": {
+				"X": 2,
+				"Y": 1,
+				},
+			"Key": "Type",
+			"Value": "Wood"
+			},
+     
+			]
+		}
+	],
+
+	"PaintMasks": [
+		{
+		"Name": "Wall",
+		},
+		{
+		"Name": "Roof",
+		},
+		{
+		"Name": "Posts",
+		},
+	],
+
+
+}

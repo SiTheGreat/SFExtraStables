@@ -1,0 +1,12 @@
+﻿{
+	"Name": "[Si] Extra Stables for SF",
+	"Author": "SiTheGreat",
+	"Description": "Extra stables for Solid Foundations",
+	"Version": "1.0.1",
+	"UniqueID": "SiTheGreat.SolidFoundations.Stables",
+	"UpdateKeys": [ "Nexus:14007" ],
+	"ContentPackFor": {
+		"UniqueID": "PeacefulEnd.SolidFoundations",
+		"MinimumVersion": "1.12.4"
+	},
+}
