@@ -2,7 +2,7 @@
 	"Name": "[Si] Extra Stables for SF",
 	"Author": "SiTheGreat",
 	"Description": "Extra stables for Solid Foundations",
-	"Version": "1.0.1",
+	"Version": "1.0.2",
 	"UniqueID": "SiTheGreat.SolidFoundations.Stables",
 	"UpdateKeys": [ "Nexus:14007" ],
 	"ContentPackFor": {
